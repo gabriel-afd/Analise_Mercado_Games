@@ -34,7 +34,3 @@ Este projeto foi desenvolvido no **Google Colab**, portanto, você não precisa 
 ## Contribuindo
 
 Se você deseja contribuir com este projeto, basta fazer um fork e enviar um pull request com suas melhorias.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
